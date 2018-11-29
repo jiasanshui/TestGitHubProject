@@ -1,5 +1,7 @@
+package com.aaa.testgh.controller;
+
 /**
- * className:EmpController
+ * className:com.aaa.testgh.controller.EmpController
  * discription:
  * author:jiasanshui
  * createTime:2018-11-29 09:35
